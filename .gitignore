@@ -1,0 +1,13 @@
+# Virtual Environment
+venv/
+.venv/
+__pycache__/
+*.pyc
+
+# IDEs and Editors
+.vscode/
+.idea/
+
+# LocalStack / Docker temporary files
+.localstack/
+*.log
